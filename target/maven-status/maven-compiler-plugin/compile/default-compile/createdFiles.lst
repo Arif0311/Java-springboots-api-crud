@@ -1,0 +1,4 @@
+com\example\juniorprogrammer\apicrud\repositories\CarRepository.class
+com\example\juniorprogrammer\apicrud\controller\CarController.class
+com\example\juniorprogrammer\apicrud\entities\CarEntity.class
+com\example\juniorprogrammer\apicrud\ApicrudApplication.class
